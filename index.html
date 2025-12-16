@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Solar System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="stars-container" id="stars"></div>
+    <div class="comet"></div>
+
+    <div class="controls">
+        <button onclick="togglePause()" id="pauseBtn">Pause Orbits</button>
+    </div>
+
+    <div id="info-card">
+        <h2 id="title">Planet</h2>
+        <p id="description">Content</p>
+        <button onclick="closeInfo()">Close</button>
+    </div>
+
+    <div class="solar-system">
+        <div class="sun"
+            onclick="showInfo('The Sun', 'A nearly perfect sphere of hot plasma at the center of the Solar System.')">
+        </div>
+
+        <div class="orbit mercury-orbit">
+            <div class="planet mercury" onclick="showInfo('Mercury', 'The smallest and innermost planet.')"></div>
+        </div>
+        <div class="orbit venus-orbit">
+            <div class="planet venus"
+                onclick="showInfo('Venus', 'The second planet from the Sun, with a thick toxic atmosphere.')"></div>
+        </div>
+        <div class="orbit earth-orbit">
+            <div class="planet earth"
+                onclick="showInfo('Earth', 'Our home planet and the only known world to support life.')"></div>
+        </div>
+        <div class="orbit mars-orbit">
+            <div class="planet mars"
+                onclick="showInfo('Mars', 'The Red Planet, home to the largest volcano in the solar system.')"></div>
+        </div>
+        <div class="orbit jupiter-orbit">
+            <div class="planet jupiter" onclick="showInfo('Jupiter', 'The largest planet, a gas giant with 95 moons.')">
+            </div>
+        </div>
+
+        <div class="orbit saturn-orbit">
+            <div class="planet saturn" onclick="showInfo('Saturn', 'Famous for its complex system of icy rings.')">
+                <div class="saturn-ring"></div>
+            </div>
+        </div>
+
+        <div class="orbit uranus-orbit">
+            <div class="planet uranus"
+                onclick="showInfo('Uranus', 'An ice giant with a unique tilt that makes it rotate on its side.')"></div>
+        </div>
+        <div class="orbit neptune-orbit">
+            <div class="planet neptune"
+                onclick="showInfo('Neptune', 'The most distant major planet, known for its supersonic winds.')"></div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
